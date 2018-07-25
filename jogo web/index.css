@@ -1,0 +1,51 @@
+.personagem{
+  position: relative;
+  top: 300px;
+  width: 100px;
+  right: 100px;
+  left: 0px;
+  
+  
+}
+
+.cenario{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 3000px;
+  height: 500px
+  
+  
+
+
+}
+
+.placar{
+  position: relative;
+ top: -120px;
+  color: red;
+  text-align: right;
+ 
+}
+
+.titulo{
+  position: relative;
+  top: -150px;
+  color: red;
+  text-align: center;
+}
+
+.obstaculo{
+  position: relative;
+  top: 20px;
+  left: 1250px;
+  width: 150px;
+}
+
+
+.obstaculo2{
+  position: relative;
+  top: 20px;
+  left: 150px;
+  width: 150px;
+}
